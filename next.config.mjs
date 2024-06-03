@@ -1,5 +1,5 @@
 import path from "path";
-import { getCurrentCommit } from "@onlook/helpers";
+import { getCurrentCommit } from "@onlook/helpers/server";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
